@@ -1,6 +1,4 @@
-not yet
-sc
-sc
-csss
-sss
-sس
+#include <iostream>
+void main(){
+  printf("hello world");
+}
